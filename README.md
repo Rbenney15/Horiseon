@@ -10,4 +10,4 @@ Adjustments I made:
 - Cleaned up the ordering of the heading attributes
 - Adjusted the title element to reflect the name of the client to assist in increased visibility
 
-The project is currently deployed at: 
+The project is currently deployed at: https://rbenney15.github.io/Horiseon/
